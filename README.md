@@ -20,6 +20,17 @@ When running/debugging compiled jar  variable `annotatedPackages` has value of `
 
 Prefix `BOOT-INF.classes` is expected per [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/executable-jar.html#executable-jar-jar-file-structure)
 
+# Links with the same issue
+
+https://stackoverflow.com/questions/44441129/java-lang-noclassdeffounderror-with-package-info
+
+https://stackoverflow.com/questions/45545445/spring-boot-classnotdef-error-with-jaxb-package-info-java
+
+https://stackoverflow.com/questions/43782191/spring-boot-runnable-jar-cant-load-package-info-class
+
+https://gitter.im/spring-projects/spring-boot?at=59e7a8f0b20c6424291bfd51
+
+
 # Steps to reproduce 
 Run project from Eclipse - project boots up and works as expected.
 
