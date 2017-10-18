@@ -1,4 +1,4 @@
-#Use case
+# Use case
 
 I upgraded my spring boot application from 1.2.x to 1.5.x. In this verstion `spring-boot-starter-data-jpa` relies on Hibernate 5 and is not compatible with Hibernate 4.
 
